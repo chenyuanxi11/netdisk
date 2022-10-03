@@ -1,4 +1,4 @@
-# netdisk\
+# netdisk
 Storage some files there
 
 ======|MRKNVOID's NetDisk|====== \
