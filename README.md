@@ -1,9 +1,8 @@
-# netdisk
+# netdisk\
 Storage some files there
 
-======|MRKNVOID's NetDisk|======
-Don't *hack* this repository!
---now free!--
+======|MRKNVOID's NetDisk|====== \
+Don't **hack** this repository!
 
 ```C++
 #include <real_world.h>
