@@ -1,2 +1,0 @@
-# mythwarehelper
-a mythware helper
